@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious letter to the Lord Maior and court of aldermen of the city of London about imploying the poor and vagrants.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19291</idno><idno type="EEBO-CITATION">99888957</idno>
+  <idno type="VID">194027</idno>
+  <idno type="EEBO-PROQUEST">2240901855</idno>
+  
+            <idno type="STC">Wing C3032A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[225]</idno>
+            <idno type="PROQUEST">ocm99888957</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888957e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194027)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[225])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious letter to the Lord Maior and court of aldermen of the city of London about imploying the poor and vagrants.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>City of London (England). Lord Mayor.</author>
+               </titleStmt>
+               <extent>1 sheet ([1]  p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dates in the item contradict: the proclamation is dated "23 day of July in the Twelfth year of Our Reign" [i.e. 1660]; report from the Councell of the Royal Fishings, gives date "13. May 1663" as the date of accounts rendered.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Fisheries --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:194027:1"/>
+            <head>His MAJESTIES Gracious LETTER to the Lord Maior and Court of Aldermen of the City of <hi>London, About Imploying the Poor and Vagrants.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Trusty and Well-beloved, We greet you well. Whereas Our Royal Father of Blessed Memory, did in the year <hi>1632.</hi> Constitute and Establish a Society of <hi>Fishers,</hi> and Declared that He was resolved by all good occasions favourably to assist, and graciously accept the forwardness of all those that should express their zeal to His Majesties Service in so general and publick an Undertaking; It being then Resolved and Concluded by His Majesty, that it was very honourable and necessary for this Kingdom. Now that the true managing and most advantageous prosecution thereof, is by experience discovered by <hi>Philip</hi> late Earl of <hi>Pembroke</hi> and <hi>Montgomery</hi> and his Associates, who did cause sundry Fishing Vessels to be provided and built, which imployed many Families in making of Nets and other Provisions (one Vessel imploying Twenty Families in work) besides the breeding of Country Youths to be made service<g ref="char:EOLhyphen"/>able Mariners in short time, as by the Book called <hi>The Royal Herring Buss Fishings,</hi> presented unto Us, doth plainly appear. And whereas We are informed that the Nation doth abound with great numbers of poor Families and Vagrants, who for want of imployment are like to perish, unlesse some speedy care be taken for their Relief: And that the several Wards and Suburbs of this Our City of <hi>London</hi> and Hamblets adjacent, are burthened with multitudes of poor people, not only which are born in the said places, but such as come out of sundry Countryes to seek Relief: For Redress whereof, We do hereby recommend unto the care of You Our Lord Maior of the said City, to advise with each Alderman, and cause his Ward-moote Inquest to give in a particular of all the poor Inhabitants within his Ward, what their Imploy<g ref="char:EOLhyphen"/>ment is, and how many are without Imployment, and present the same to the rest of the Inhabitants in his Ward, with a Copy thereof, and excite them to a free Subscription for raising a Stock to buy Hemp and Clapboards to make Herring Fishing-Nets, and Barrels for the furnishing and fitting out of one Buss or Fishing Vessel to belong to the said Ward, which will give all the Poor and Vagrants Imployment; the said Ward husbanding the same to their best advantage. The which <hi>We</hi> shall in like manner recommend to all the Counties, Cities, and Towns within our Dominions, whereby to make it a National Imployment for the general good, and will give all fitting assistance to the Undertakers for their encouragement. That so when Provisions shall be made ready and Store-houses built in commodious places about the River of <hi>Thames,</hi> (where breaches have been made) and the like in the several Ports, Magazines may be fitted with Nets, Caske, Salt and all things in readinesse, the Busses may all go forth to Our Island of <hi>Sheteland</hi> as their Rendezvouz to keep together in their Fishing, according to certain Orders prescribed in the aforesaid Book. And to take that Priviledge of the Fishing-grounds which belongs to Us before all Nations whatsoever. And so <hi>We</hi> bid you heartily farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court of</hi> Whitehall
+<date>
+                     <hi>this 23 day of</hi> July, <hi>in the Twelfth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>By His MAJESTIES Command ED. NICHOLAS.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To Our Right Trusty and Well-beloved the <hi>Lord Maior</hi> of Our City of <hi>London,</hi> to be Communicated to the Court of Aldermen.</head>
+            <p>Whereupon His Majesty hath granted a Commission under the great Seal of <hi>England,</hi> and therein hath nominated and constituted a Councel of the Royal Fishings of <hi>Great Britain</hi> and <hi>Ireland,</hi> of which His Majesty will vouchsafe ever to be and be called <hi>Protector,</hi> and therein hath granted many Priviledges and Immunities as to Persons, Vessels, and Goods, as therein is largely expressed: And having granted Letters Patents for a free Collection, whereof is Printed 20 Thousand Commissions and Briefs, committed to the Care of the High Sheriffs in every County, who having made no return of the Briefs nor Moneys, the Imployment could not go forward, although the Councel of the Royal-Fishings have wrote 52 Letters unto the Sheriffs, but receive no answer: And having lately written 26 Letters to the Bishops, they have made Enquiry, and find that most Parishes in their Diocesse have not received any Briefs at all, and therefore no Collection could be made; So that the Councel for the Royal-Fishings can only give Accompt of the Collections in <hi>London</hi> and Suburbs, which is particularly here expressed.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Andrew Undershaft</hi>
+                     </cell>
+                     <cell>07</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>James Dukesplace</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Allhallowes Barking</hi>
+                     </cell>
+                     <cell>04</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Margaret Pattens</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Magnus</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>12</cell>
+                     <cell>0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Botolph Bishopsgate</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Christophers</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Martin Outwitch</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Botolphs Algate</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Peters Corn<gap reason="illegible" resp="#keyers" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>04</cell>
+                     <cell>19</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Clements Cheap</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Woolnoth</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Nicholas Acons</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Stevens Walbrooke</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Swithins</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>08</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Peter Pauls Wharf</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Mounthaw</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>17</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael Royal</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>John Zachary</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Olaves Silverstreet</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Margaret Moses</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>John Evangelist</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary le <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ow</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Gregories by Pauls</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Lawrence Jewry</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mildred Poultrey</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Albans Woodstreet</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>18</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael Woodstreet</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Olaves Jewry</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Matthew Fridaystreet</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Faiths</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>03</cell>
+                     <cell>1 ½</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael the Quern</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>13</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Brides</hi>
+                     </cell>
+                     <cell>19</cell>
+                     <cell>04</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Andrew Holborn</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0</cell>
+                     <cell>14</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Kat<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ine Creechurch</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Dunstans East</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Hill</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Andrew Hubbard</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>13</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Margaret Newfishstr</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Ethelborough</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Barthol. Exchange</hi>
+                     </cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Peter le Poore</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Trinity Minories</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Lawrence Poultrey</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>19</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael Crookedlane</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Edmunds Lumbardstr.</hi>
+                     </cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Gabriel Fenchurch</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>15</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Bothaw</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>18</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Nicholas Olaves</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Summerset</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>James Garlickhithe</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>15</cell>
+                     <cell>9 ½</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Alhallowes the Lesse</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Ann Aldersgate</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Leonards Fosterlane</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>04</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mildred Breadstreet</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Antholins</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Andrew Wardrope</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>16</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bennet Pauls Wharfe</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Martins Ironmonger.</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bennet Sherehog</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Aldermanbury</hi>
+                     </cell>
+                     <cell>07</cell>
+                     <cell>17</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Stevens Colmanstreet</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Foster in Fosterlane</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Christchurch</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>18</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Ann Black-Friers</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bartholmew the Great</hi>
+                     </cell>
+                     <cell>07</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Sepulchres</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>18</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Katharine Colman</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>05</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Olaves Hartstreet</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Botolphs Billingsgate</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>George Botolphlane</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bennet Grace-church</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Hellens</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bennet Fynch</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Alhallowes the Wall</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>05</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael Cornhill</hi>
+                     </cell>
+                     <cell>04</cell>
+                     <cell>11</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Martins Orgars</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Dionis Back-church</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Alhallowes Staining</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Woolchurch</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>19</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>John Baptist Walbrook</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael Queenhithe</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>19</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Trinity Parish</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Thomas Apostle</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Botolphs Aldersgate</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Stainings</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>14</cell>
+                     <cell>0 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. <hi>Mi<gap reason="illegible" resp="#keyers" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>l D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Alhallowes Breadstreet</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>11</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Aldermary</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Maudlins Oldfishstreet</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Alhallowes Honilane</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Mary Colchurch</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Giles Cripplegate</hi>
+                     </cell>
+                     <cell>25</cell>
+                     <cell>19</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Maudlins Milkstreet</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Margaret Lothbury</hi>
+                     </cell>
+                     <cell>06</cell>
+                     <cell>14</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Peters Cheap</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>16</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Austins</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>10</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Martins Ludgate</hi>
+                     </cell>
+                     <cell>09</cell>
+                     <cell>18</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bridewell</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bartholomew the Lesse</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>14</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Alhall. Lumbardstr.</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>15</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>The whole Summe of these 102 Parish Collections, amounts unto</cell>
+                     <cell role="total">456</cell>
+                     <cell role="total">08</cell>
+                     <cell role="total">08</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The 9 Out Parishes, <hi>viz.</hi>
+                  </head>
+                  <row>
+                     <cell>St. <hi>Katharines</hi>
+                     </cell>
+                     <cell>03</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wapping</hi>
+                     </cell>
+                     <cell>08</cell>
+                     <cell>09</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Maudlins</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Olaves Southwark</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Saviour</hi>
+                     </cell>
+                     <cell>21</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stepney</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Leonard Shorditch</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>11</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Whitechappel</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stratford le Bow</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>14</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Summe is,</cell>
+                     <cell role="total">82</cell>
+                     <cell role="total">17</cell>
+                     <cell role="total">11</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Councell of the Royall Fishings further shew, That in pursuance of His Majesties Commission they have caused their Agent <hi>Simon Smith,</hi> to provide a fitting Wharfe and ground at <hi>Depthford</hi> adjoyning to His Majesties Shipyard there, containing five Acres, whereon is four large new Work-houses and Graneries, with Cranes, and Docks, and Sawpits, for building of Busses; and hath erected a Tan-house, with a large Copper, for the Tanning of the Nets, with all other Commodities belonging, to entertain the building of Busses, <hi>&amp;c.</hi> making of Nets and Cask, <hi>&amp;c.</hi>
+            </p>
+            <p>About which is laid out 3256 <hi>l.</hi> 04. <hi>s.</hi> 00. <hi>d.</hi> whereof is paid him by the Collections, but 390 <hi>l.</hi> The rest of the Moneys the Earl of <hi>Pembroke</hi>'s Agents have gotten, and are to be called to Accompt for the same, according to the Accompts given in the 13. <hi>May</hi> 1663. as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas King</hi> of <hi>Harwich,</hi> hath received of 17. Sheriffs and others</cell>
+                     <cell> </cell>
+                     <cell>246</cell>
+                     <cell>18</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Gibbons</hi> hath received of 12. Sheriff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and others</cell>
+                     <cell> </cell>
+                     <cell>216</cell>
+                     <cell>16</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joseph Sabbarton</hi> hath received of 2. Sheriffs</cell>
+                     <cell> </cell>
+                     <cell>083</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Earl of <hi>Pembroke</hi> hath received of the 102. Parishes in <hi>London</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>456</cell>
+                     <cell>08</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>And of the 9. Out Parishes mentioned in his Accompt</cell>
+                     <cell> </cell>
+                     <cell>082</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Totall</cell>
+                     <cell role="total">1086</cell>
+                     <cell role="total">09</cell>
+                     <cell role="total">04</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Whereof is paid but</cell>
+                     <cell>390</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Resting to be Accompted for</cell>
+                     <cell>696</cell>
+                     <cell>09</cell>
+                     <cell>04</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If the Earl of <hi>Pembroke</hi>'s Agents had been carefull and faithfull, there might have been Monies enough Collected whereby to have erected Wharfs and Work-houses, and Store-houses in all the Fishing-Towns, for building of Busses and other Vessels, and making of Nets, and all commodities for the Fishing Imployment, as His Majesty hath directed; and by this time the <hi>English</hi> might have been enabled to take their own Fish, and the Strange<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> should have bought the Fish of them, as heretofore they did.</p>
+            <p>Wherefore the premises considered, it is desired that the City and Hamblets will begin the Imployment, for incouragement of all others to follow their president, otherwise the obstruction will lye at their dores.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
